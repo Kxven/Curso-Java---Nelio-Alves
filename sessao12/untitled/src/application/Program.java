@@ -1,6 +1,7 @@
-package untitled.src.application;
+package application;
 
-import untitled.src.entities.Order;
+
+import entities.Order;
 import untitled.src.entities.enums.OrderStatus;
 
 import java.util.Date;

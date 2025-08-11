@@ -1,7 +1,8 @@
-package untitled.src.entities;
+package entities;
 
 import untitled.src.entities.enums.WorkerLevel;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Worker{
@@ -10,7 +11,7 @@ public class Worker{
     private double BaseSalaty;
 
     private Department department;
-    private List<HourContract> contracts;
+    private List<untitled.src.entities.HourContract> contracts = new ArrayList<>();
 
     public Worker(){}
 
