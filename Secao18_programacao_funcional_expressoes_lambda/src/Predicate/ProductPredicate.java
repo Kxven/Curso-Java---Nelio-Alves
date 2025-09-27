@@ -1,6 +1,6 @@
-package src;
+package src.Predicate;
 
-import src.entities.Products;
+import src.Consumer.entities.Products;
 
 import java.util.function.Predicate;
 

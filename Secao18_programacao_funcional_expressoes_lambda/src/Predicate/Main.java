@@ -1,9 +1,10 @@
-import src.ProductPredicate;
-import src.entities.Products;
+package src.Predicate;
+
+import src.Predicate.ProductPredicate;
+import src.Predicate.entities.Products;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Predicate;
 
 public class Main {
     public static void main(String[] args) {
