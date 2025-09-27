@@ -6,8 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios POO/Exercicios POO.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios POO/Exercicios POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/curso_nelio.iml" filepath="$PROJECT_DIR$/curso_nelio.iml" />
       <module fileurl="file://$PROJECT_DIR$/introducaoPOO/introducaoPOO.iml" filepath="$PROJECT_DIR$/introducaoPOO/introducaoPOO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sessao10/sessao10.iml" filepath="$PROJECT_DIR$/sessao10/sessao10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sessao12/untitled/untitled.iml" filepath="$PROJECT_DIR$/sessao12/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao10/secao10.iml" filepath="$PROJECT_DIR$/secao10/secao10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao18_programacao_funcional_expressoes_lambda/secao18_programacao_funcional_expressoes_lambda.iml" filepath="$PROJECT_DIR$/secao18_programacao_funcional_expressoes_lambda/secao18_programacao_funcional_expressoes_lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secao12/untitled/untitled.iml" filepath="$PROJECT_DIR$/secao12/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
