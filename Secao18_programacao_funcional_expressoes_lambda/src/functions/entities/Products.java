@@ -1,4 +1,4 @@
-package src.Consumer.entities;
+package src.functions.entities;
 
 public class Products{
     private String name;
@@ -29,13 +29,7 @@ public class Products{
         this.preco = preco;
     }
 
-    public static void staticPriceUpdate(Products p ){
-        p.setPreco(p.getPreco() * 1.1);
-    }
 
-    public void noStaticPriceUpdate(){
-        setPreco(getPreco() * 1.1);
-    }
     @Override
     public String toString(){
         return "Products{" +
