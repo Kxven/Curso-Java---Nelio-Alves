@@ -17,7 +17,7 @@ public class Exercicio1{
         //nomes, em ordem decrescente, dos produtos que possuem preço
         //inferior ao preço médio.
 
-        //Arquivo in.txt
+        //Arquivo Exercicio1.txt
         //Tv,900.00
         //Mouse,50.00
         //Tablet,350.50

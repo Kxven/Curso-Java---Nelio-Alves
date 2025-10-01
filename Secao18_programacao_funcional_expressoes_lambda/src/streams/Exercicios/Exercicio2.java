@@ -25,7 +25,7 @@ public class Exercicio2{
         //Bob,bob@gmail.com,3500.00
         //Anna,anna@gmail.com,2800.00
 
-        //Enter full file path: c:\temp\in.txt
+        //Enter full file path: Exercicio1.txt
         //Enter salary: 2000.00
         //Email of people whose salary is more than 2000.00:
         //anna@gmail.com

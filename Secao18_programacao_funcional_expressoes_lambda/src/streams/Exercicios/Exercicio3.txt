@@ -1,0 +1,7 @@
+Mouse,Informatica,90.00
+Teclado,Informatica,120.00
+Monitor,Informatica,950.00
+Camiseta,Vestuário,70.00
+Tênis,Vestuário,350.00
+Geladeira,Eletrodoméstico,3000.00
+Fogão,Eletrodoméstico,1800.00
