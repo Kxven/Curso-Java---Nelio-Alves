@@ -1,4 +1,4 @@
-package src.streams.entities;
+package src.streams.Exercicios.entities;
 
 public class Product{
     private String nome;

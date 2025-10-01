@@ -1,7 +1,7 @@
-package src.streams;
+package src.streams.Exercicios;
 
 
-import src.streams.entities.Product;
+import src.streams.Exercicios.entities.Product;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
