@@ -4,6 +4,8 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/introducaoPOO/exercicioPOO/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/secao16/untitled/src/dependencyInjection/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/secao16/untitled/src/dependencyInjection/withoutAddictionInjection" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
